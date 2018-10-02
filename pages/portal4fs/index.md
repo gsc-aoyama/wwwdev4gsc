@@ -9,7 +9,7 @@ sort: 1
 ## Field Study Guide 2018
 
 <!--![field trip](/assets/images/v1/2018/07/Field-trip_-_school_children_outdoors_listening_to_man_wide.jpg "field trip"){:.image}-->
-![field trip](../images/v1/2018/07/Field-trip_-_school_children_outdoors_listening_to_man_wide.jpg "field trip"){:.image}
+![field trip](../assets/images/v1/2018/07/Field-trip_-_school_children_outdoors_listening_to_man_wide.jpg "field trip"){:.image}
 
 {:.list-links}
 <ul class="portal4fs">
